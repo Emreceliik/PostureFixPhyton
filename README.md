@@ -341,8 +341,8 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 Sorularınız için:
 - **GitHub Issues**: Hata raporları ve özellik istekleri
-- **Email**: support@posturefix.com
-- **Documentation**: https://docs.posturefix.com
+- **Email**: emre.celik.0052@gmail.com
+
 
 ---
 
